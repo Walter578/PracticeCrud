@@ -3230,11 +3230,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Walte\\source\\repos\\PracticeCrud\\PracticeCrud\\PracticeCrud.csproj",
+      "projectUniqueName": "C:\\Users\\Walte\\OneDrive\\Documentos\\GitHub\\PracticeCrud\\PracticeCrud\\PracticeCrud\\PracticeCrud.csproj",
       "projectName": "PracticeCrud",
-      "projectPath": "C:\\Users\\Walte\\source\\repos\\PracticeCrud\\PracticeCrud\\PracticeCrud.csproj",
+      "projectPath": "C:\\Users\\Walte\\OneDrive\\Documentos\\GitHub\\PracticeCrud\\PracticeCrud\\PracticeCrud\\PracticeCrud.csproj",
       "packagesPath": "C:\\Users\\Walte\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Walte\\source\\repos\\PracticeCrud\\PracticeCrud\\obj\\",
+      "outputPath": "C:\\Users\\Walte\\OneDrive\\Documentos\\GitHub\\PracticeCrud\\PracticeCrud\\PracticeCrud\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Walte\\AppData\\Roaming\\NuGet\\NuGet.Config",

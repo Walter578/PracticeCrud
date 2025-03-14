@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Uxhric0pFeWLCA31HRa7kiMniAR3f2SvewvlcZP2/CczaBExDUgZzJ7aP7CjDeGfeV+gKRXrLqxpgk76lfitLQ==",
+  "dgSpecHash": "20j2EkdX74pWOHjORejOntfcXCVsOC5xEyaw8xMxi1+ra6haSvScnNSkHPJ5+AQoktzjfgL21fzZoZHmGPxZcQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Walte\\source\\repos\\PracticeCrud\\PracticeCrud\\PracticeCrud.csproj",
+  "projectFilePath": "C:\\Users\\Walte\\OneDrive\\Documentos\\GitHub\\PracticeCrud\\PracticeCrud\\PracticeCrud\\PracticeCrud.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Walte\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Walte\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
