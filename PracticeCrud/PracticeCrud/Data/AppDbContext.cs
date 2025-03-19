@@ -1,5 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using Microsoft.Identity.Client;
+using PracticeCrud.Models;
 
 namespace PracticeCrud.Data
 {
@@ -9,5 +9,7 @@ namespace PracticeCrud.Data
         {
            
         }
+
+        public DbSet<Vendor> vendors { get; set; }
     }
 }
