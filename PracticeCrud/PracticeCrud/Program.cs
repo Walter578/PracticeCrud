@@ -1,5 +1,7 @@
 using Microsoft.EntityFrameworkCore;
 using PracticeCrud.Data;
+using PracticeCrud.Interface;
+using PracticeCrud.Models;
 
 
 var builder = WebApplication.CreateBuilder(args);
@@ -18,7 +20,7 @@ builder.Services.AddDbContext<AppDbContext>(options => options.UseSqlServer(buil
             maxRetryDelay: TimeSpan.FromSeconds(30),
             errorNumbersToAdd: null);
     }));
-//builder.Services.AddScoped<ICustomerRepository, ICustomFormatter>();
+builder.Services.AddScoped<IVendorRepository, VendorRepository>();
 
 
 var app = builder.Build();
