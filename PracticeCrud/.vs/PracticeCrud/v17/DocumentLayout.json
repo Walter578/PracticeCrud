@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Walte\\OneDrive\\Documentos\\GitHub\\PracticeCrud\\PracticeCrud\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{77D33E5A-9C35-4607-83A7-FD356D2A415B}|PracticeCrud\\PracticeCrud.csproj|c:\\users\\walte\\onedrive\\documentos\\github\\practicecrud\\practicecrud\\practicecrud\\models\\vendorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77D33E5A-9C35-4607-83A7-FD356D2A415B}|PracticeCrud\\PracticeCrud.csproj|solutionrelative:practicecrud\\models\\vendorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{77D33E5A-9C35-4607-83A7-FD356D2A415B}|PracticeCrud\\PracticeCrud.csproj|C:\\Users\\Walte\\OneDrive\\Documentos\\GitHub\\PracticeCrud\\PracticeCrud\\practicecrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D33E5A-9C35-4607-83A7-FD356D2A415B}|PracticeCrud\\PracticeCrud.csproj|solutionrelative:practicecrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D33E5A-9C35-4607-83A7-FD356D2A415B}|PracticeCrud\\PracticeCrud.csproj|C:\\Users\\Walte\\OneDrive\\Documentos\\GitHub\\PracticeCrud\\PracticeCrud\\practicecrud\\models\\vendor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D33E5A-9C35-4607-83A7-FD356D2A415B}|PracticeCrud\\PracticeCrud.csproj|solutionrelative:practicecrud\\models\\vendor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{77D33E5A-9C35-4607-83A7-FD356D2A415B}|PracticeCrud\\PracticeCrud.csproj|C:\\Users\\Walte\\OneDrive\\Documentos\\GitHub\\PracticeCrud\\PracticeCrud\\practicecrud\\controllers\\vendorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,24 +19,12 @@
       "RelativeMoniker": "D:0:0:{77D33E5A-9C35-4607-83A7-FD356D2A415B}|PracticeCrud\\PracticeCrud.csproj|solutionrelative:practicecrud\\interface\\ivendorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{77D33E5A-9C35-4607-83A7-FD356D2A415B}|PracticeCrud\\PracticeCrud.csproj|C:\\Users\\Walte\\OneDrive\\Documentos\\GitHub\\PracticeCrud\\PracticeCrud\\practicecrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{77D33E5A-9C35-4607-83A7-FD356D2A415B}|PracticeCrud\\PracticeCrud.csproj|solutionrelative:practicecrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{77D33E5A-9C35-4607-83A7-FD356D2A415B}|PracticeCrud\\PracticeCrud.csproj|C:\\Users\\Walte\\OneDrive\\Documentos\\GitHub\\PracticeCrud\\PracticeCrud\\practicecrud\\practicecrud.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{77D33E5A-9C35-4607-83A7-FD356D2A415B}|PracticeCrud\\PracticeCrud.csproj|solutionrelative:practicecrud\\practicecrud.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{77D33E5A-9C35-4607-83A7-FD356D2A415B}|PracticeCrud\\PracticeCrud.csproj|C:\\Users\\Walte\\OneDrive\\Documentos\\GitHub\\PracticeCrud\\PracticeCrud\\practicecrud\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{77D33E5A-9C35-4607-83A7-FD356D2A415B}|PracticeCrud\\PracticeCrud.csproj|solutionrelative:practicecrud\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{77D33E5A-9C35-4607-83A7-FD356D2A415B}|PracticeCrud\\PracticeCrud.csproj|C:\\Users\\Walte\\OneDrive\\Documentos\\GitHub\\PracticeCrud\\PracticeCrud\\practicecrud\\models\\vendor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77D33E5A-9C35-4607-83A7-FD356D2A415B}|PracticeCrud\\PracticeCrud.csproj|solutionrelative:practicecrud\\models\\vendor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{77D33E5A-9C35-4607-83A7-FD356D2A415B}|PracticeCrud\\PracticeCrud.csproj|C:\\Users\\Walte\\OneDrive\\Documentos\\GitHub\\PracticeCrud\\PracticeCrud\\practicecrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77D33E5A-9C35-4607-83A7-FD356D2A415B}|PracticeCrud\\PracticeCrud.csproj|solutionrelative:practicecrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{77D33E5A-9C35-4607-83A7-FD356D2A415B}|PracticeCrud\\PracticeCrud.csproj|c:\\users\\walte\\onedrive\\documentos\\github\\practicecrud\\practicecrud\\practicecrud\\models\\vendorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D33E5A-9C35-4607-83A7-FD356D2A415B}|PracticeCrud\\PracticeCrud.csproj|solutionrelative:practicecrud\\models\\vendorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,72 +34,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "VendorController.cs",
-              "DocumentMoniker": "C:\\Users\\Walte\\OneDrive\\Documentos\\GitHub\\PracticeCrud\\PracticeCrud\\PracticeCrud\\Controllers\\VendorController.cs",
-              "RelativeDocumentMoniker": "PracticeCrud\\Controllers\\VendorController.cs",
-              "ToolTip": "C:\\Users\\Walte\\OneDrive\\Documentos\\GitHub\\PracticeCrud\\PracticeCrud\\PracticeCrud\\Controllers\\VendorController.cs",
-              "RelativeToolTip": "PracticeCrud\\Controllers\\VendorController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T17:41:31.262Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IVendorRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Walte\\OneDrive\\Documentos\\GitHub\\PracticeCrud\\PracticeCrud\\PracticeCrud\\Interface\\IVendorRepository.cs",
-              "RelativeDocumentMoniker": "PracticeCrud\\Interface\\IVendorRepository.cs",
-              "ToolTip": "C:\\Users\\Walte\\OneDrive\\Documentos\\GitHub\\PracticeCrud\\PracticeCrud\\PracticeCrud\\Interface\\IVendorRepository.cs",
-              "RelativeToolTip": "PracticeCrud\\Interface\\IVendorRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T19:33:33.425Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "VendorRepository.cs",
               "DocumentMoniker": "C:\\Users\\Walte\\OneDrive\\Documentos\\GitHub\\PracticeCrud\\PracticeCrud\\PracticeCrud\\Models\\VendorRepository.cs",
               "RelativeDocumentMoniker": "PracticeCrud\\Models\\VendorRepository.cs",
               "ToolTip": "C:\\Users\\Walte\\OneDrive\\Documentos\\GitHub\\PracticeCrud\\PracticeCrud\\PracticeCrud\\Models\\VendorRepository.cs",
               "RelativeToolTip": "PracticeCrud\\Models\\VendorRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-19T19:29:23.723Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Vendor.cs",
-              "DocumentMoniker": "C:\\Users\\Walte\\OneDrive\\Documentos\\GitHub\\PracticeCrud\\PracticeCrud\\PracticeCrud\\Models\\Vendor.cs",
-              "RelativeDocumentMoniker": "PracticeCrud\\Models\\Vendor.cs",
-              "ToolTip": "C:\\Users\\Walte\\OneDrive\\Documentos\\GitHub\\PracticeCrud\\PracticeCrud\\PracticeCrud\\Models\\Vendor.cs",
-              "RelativeToolTip": "PracticeCrud\\Models\\Vendor.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T19:27:59.043Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Walte\\OneDrive\\Documentos\\GitHub\\PracticeCrud\\PracticeCrud\\PracticeCrud\\Program.cs",
-              "RelativeDocumentMoniker": "PracticeCrud\\Program.cs",
-              "ToolTip": "C:\\Users\\Walte\\OneDrive\\Documentos\\GitHub\\PracticeCrud\\PracticeCrud\\PracticeCrud\\Program.cs",
-              "RelativeToolTip": "PracticeCrud\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T19:02:34.893Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Walte\\OneDrive\\Documentos\\GitHub\\PracticeCrud\\PracticeCrud\\PracticeCrud\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "PracticeCrud\\Data\\AppDbContext.cs",
@@ -115,31 +59,60 @@
               "RelativeToolTip": "PracticeCrud\\Data\\AppDbContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T19:45:52.657Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "PracticeCrud.csproj",
-              "DocumentMoniker": "C:\\Users\\Walte\\OneDrive\\Documentos\\GitHub\\PracticeCrud\\PracticeCrud\\PracticeCrud\\PracticeCrud.csproj",
-              "RelativeDocumentMoniker": "PracticeCrud\\PracticeCrud.csproj",
-              "ToolTip": "C:\\Users\\Walte\\OneDrive\\Documentos\\GitHub\\PracticeCrud\\PracticeCrud\\PracticeCrud\\PracticeCrud.csproj",
-              "RelativeToolTip": "PracticeCrud\\PracticeCrud.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-14T19:45:05.713Z"
+              "WhenOpened": "2025-03-14T19:45:52.657Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Walte\\OneDrive\\Documentos\\GitHub\\PracticeCrud\\PracticeCrud\\PracticeCrud\\appsettings.json",
-              "RelativeDocumentMoniker": "PracticeCrud\\appsettings.json",
-              "ToolTip": "C:\\Users\\Walte\\OneDrive\\Documentos\\GitHub\\PracticeCrud\\PracticeCrud\\PracticeCrud\\appsettings.json",
-              "RelativeToolTip": "PracticeCrud\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-14T19:33:51.159Z"
+              "Title": "IVendorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Walte\\OneDrive\\Documentos\\GitHub\\PracticeCrud\\PracticeCrud\\PracticeCrud\\Interface\\IVendorRepository.cs",
+              "RelativeDocumentMoniker": "PracticeCrud\\Interface\\IVendorRepository.cs",
+              "ToolTip": "C:\\Users\\Walte\\OneDrive\\Documentos\\GitHub\\PracticeCrud\\PracticeCrud\\PracticeCrud\\Interface\\IVendorRepository.cs",
+              "RelativeToolTip": "PracticeCrud\\Interface\\IVendorRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T19:33:33.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VendorController.cs",
+              "DocumentMoniker": "C:\\Users\\Walte\\OneDrive\\Documentos\\GitHub\\PracticeCrud\\PracticeCrud\\PracticeCrud\\Controllers\\VendorController.cs",
+              "RelativeDocumentMoniker": "PracticeCrud\\Controllers\\VendorController.cs",
+              "ToolTip": "C:\\Users\\Walte\\OneDrive\\Documentos\\GitHub\\PracticeCrud\\PracticeCrud\\PracticeCrud\\Controllers\\VendorController.cs",
+              "RelativeToolTip": "PracticeCrud\\Controllers\\VendorController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T17:41:31.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Vendor.cs",
+              "DocumentMoniker": "C:\\Users\\Walte\\OneDrive\\Documentos\\GitHub\\PracticeCrud\\PracticeCrud\\PracticeCrud\\Models\\Vendor.cs",
+              "RelativeDocumentMoniker": "PracticeCrud\\Models\\Vendor.cs",
+              "ToolTip": "C:\\Users\\Walte\\OneDrive\\Documentos\\GitHub\\PracticeCrud\\PracticeCrud\\PracticeCrud\\Models\\Vendor.cs",
+              "RelativeToolTip": "PracticeCrud\\Models\\Vendor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T19:27:59.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Walte\\OneDrive\\Documentos\\GitHub\\PracticeCrud\\PracticeCrud\\PracticeCrud\\Program.cs",
+              "RelativeDocumentMoniker": "PracticeCrud\\Program.cs",
+              "ToolTip": "C:\\Users\\Walte\\OneDrive\\Documentos\\GitHub\\PracticeCrud\\PracticeCrud\\PracticeCrud\\Program.cs",
+              "RelativeToolTip": "PracticeCrud\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T19:02:34.893Z",
+              "EditorCaption": ""
             }
           ]
         }

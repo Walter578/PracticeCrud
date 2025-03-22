@@ -1,10 +1,14 @@
-﻿using Microsoft.EntityFrameworkCore;
-using PracticeCrud.Models;
+﻿using PracticeCrud.Models;
 
 namespace PracticeCrud.Interface
 {
     public interface IVendorRepository
     {
-        Task<IEnumerable<Vendor>> GetVendorByIdAsync();
+        Task<Vendor> GetVendorByIdAsync(int id);            
+        Task<IEnumerable<Vendor>> GetAllVendorsAsync();     
+
+        Task<Vendor> CreateVendorAsync(Vendor vendor);      
+        Task<bool> UpdateVendorAsync(Vendor vendor);        
+        Task<bool> DeleteVendorByIdAsync(int vendorId);     
     }
 }
